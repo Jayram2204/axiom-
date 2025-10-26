@@ -8,7 +8,8 @@ This creates a permanent, unchangeable, and globally-timestamped record that any
 Our "Verify" button isn't for show. It makes a live API call to the Stellar network (via the Horizon API) to fetch the actual cryptographic proof of that alert. A user doesn't have to trust us; they can see the proof on the public ledger for themselves.
 **We are not just selling data; we are selling verifiable trust.**
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_38j1k638j1k638j1" src="https://github.com/user-attachments/assets/f3b5d1ac-27f0-4f89-b134-8e7e39ecfbe7" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_au0ok0au0ok0au0o" src="https://github.com/user-attachments/assets/51956098-f10a-447a-83a8-a7bea10a8bf7" />
+
 
 ## Key Features
 
