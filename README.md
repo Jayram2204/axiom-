@@ -18,7 +18,8 @@ Axiom Terminal is the first provably real financial terminal built on blockchain
 - **State Management**: React Context API
 - **Animations**: Framer Motion
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_adr02eadr02eadr0" src="https://github.com/user-attachments/assets/94dd9dc8-5f1f-410d-b097-3da832238a16" />
+![unnamed](https://github.com/user-attachments/assets/6fb7c33f-f266-4a1d-9904-c63f0123aa33)
+
 
 ## 🚀 Quick Start
 
@@ -86,3 +87,4 @@ Professional crypto trading platform built with ❤️
 ---
 
 **Ready for production deployment and scaling to millions of users.**
+
