@@ -17,6 +17,9 @@ Our "Verify" button isn't for show. It makes a live API call to the Stellar netw
   * **Integrated Trading Panel**: Move directly from verifiable insight to action. The trading panel (with Dhan integration) allows for seamless order execution.
   * **Advanced Analytics Suite**: A comprehensive dashboard including market sentiment gauges, options flow divergence charts, and a full-featured TradingView chart.
 
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_wfkviewfkviewfkv" src="https://github.com/user-attachments/assets/06f737f5-3949-4699-8d77-5fc3aa689f01" />
+
 How the "Verify" Flow Works
 
 1.  **Generate**: Axiom's backend systems detect a significant "Whale Alert."
@@ -31,6 +34,8 @@ Frontend**: React (Vite), Tailwind CSS
   Blockchain (Verify)**: Stellar Horizon API
   AI (Insight)**: Google Gemini API
 Trading (Execute)**: Dhan API
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_wfkviewfkviewfkv" src="https://github.com/user-attachments/assets/83c528ab-d8fd-4485-a005-2b33abff0eb0" />
 
 
   Mock Login
