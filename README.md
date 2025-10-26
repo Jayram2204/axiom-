@@ -19,7 +19,7 @@ Our "Verify" button isn't for show. It makes a live API call to the Stellar netw
   * **Advanced Analytics Suite**: A comprehensive dashboard including market sentiment gauges, options flow divergence charts, and a full-featured TradingView chart.
 
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_wfkviewfkviewfkv" src="https://github.com/user-attachments/assets/06f737f5-3949-4699-8d77-5fc3aa689f01" />
+<<img width="1024" height="1024" alt="Gemini_Generated_Image_38j1k638j1k638j1" src="https://github.com/user-attachments/assets/c19ac979-ac4a-4cce-ac8e-03e296fb4fa2" />
 
 How the "Verify" Flow Works
 
